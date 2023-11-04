@@ -9,6 +9,9 @@
 7. make sure all reviews are loaded
 8. remove all columns from export except name, time, and the review
 9. click green xlsx button
+
+## In Excel Sheet
+
 10. add column named stars
 11. fill in review column manually by seeing where reviews go from 1 to 2 to 3... stars
 12. rename column with name data to name
